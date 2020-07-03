@@ -1,7 +1,8 @@
 # audio-synthesis
 
 ## synth.py
-Run systh.py 'input your sentence'
+Run B158431_synth 'input your sentence'
+you can add more arguments like crossfade, reverse, etc.
 
 
 
